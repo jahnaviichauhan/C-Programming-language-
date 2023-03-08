@@ -1,0 +1,5 @@
+ARRAYS-
+Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
+To create an array, define the data type (like int) and specify the name of the array followed by square brackets [].
+
+Data in arrays is of the same type.
